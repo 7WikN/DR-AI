@@ -1,0 +1,2 @@
+to run the program the vs code terminal just type "python dr_ai.py" after installing the bash file before it 
+type "pip install -r requirements.txt" on the terminal before running the python file if u did not install the reuired text file 
